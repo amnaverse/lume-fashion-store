@@ -7,11 +7,12 @@ A luxury minimalist fashion storefront built with React.js, Vite, and Tailwind C
 ## Features
 - 🛒 Shopping cart using React Context API
 - ❤️ Synchronized wishlist across the app
+- 🔎 Product search
 - 🗂️ Multi-tier category filtering
 - 🎨 Clean, luxury minimalist design
 
 ## Tech Stack
-- **Frontend:** React.js, Vite
+- **Frontend:** React.js, Vite, React Router
 - **Styling:** Tailwind CSS
 - **State Management:** React Context API
 
